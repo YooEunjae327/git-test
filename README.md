@@ -11,3 +11,9 @@ git status
 git commit -m 'des'
 
 git push -u origin master
+
+git push
+
+git pull origin master
+
+git clone 'github'
